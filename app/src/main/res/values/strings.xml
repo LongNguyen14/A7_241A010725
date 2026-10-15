@@ -27,4 +27,12 @@
     <string name="denied">CHƯA CẤP</string>
     <string name="status_format">Quyền CAMERA: %1$s\nQuyền THÔNG BÁO: %2$s</string>
     <string name="status_photo">Ảnh xem trước: %1$d x %2$d pixel</string>
+    <string name="btn_both">Xin CẢ HAI quyền (Camera + Thông báo)</string>
+    <string name="btn_contacts">Đọc 5 liên hệ (cần READ_CONTACTS)</string>
+    <string name="rationale_contacts">Ứng dụng cần quyền đọc danh bạ để hiển thị 5 liên hệ đầu tiên. Không có quyền này, chức năng này sẽ không hoạt động.</string>
+    <string name="blocked_contacts">Quyền danh bạ đang bị chặn. Hãy mở Cài đặt → Quyền → Danh bạ và bật thủ công.</string>
+    <string name="contacts_denied">Bạn đã từ chối quyền đọc danh bạ.</string>
+    <string name="contacts_empty">Danh bạ trống (hãy thêm vài liên hệ vào máy ảo).</string>
+    <string name="camera_granted_toast">CAMERA: đã cấp</string>
+    <string name="camera_denied_toast">CAMERA: bị từ chối</string>
 </resources>

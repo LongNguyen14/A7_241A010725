@@ -4,6 +4,7 @@
     <!-- Quyền NGUY HIỂM: phải khai báo ở đây VÀ xin lại lúc chạy -->
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
 
     <!-- android:required="false" để máy không có camera vẫn cài được app -->
     <uses-feature
